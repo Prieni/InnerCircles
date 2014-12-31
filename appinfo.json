@@ -1,0 +1,24 @@
+{
+    "appKeys": {
+        "KEY_24H": 0,
+        "KEY_DATE": 1,
+        "KEY_INVERT": 3,
+        "KEY_VIBE": 2
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "prieni@gmail.com",
+    "longName": "InnerCircles",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "InnerCircles",
+    "uuid": "3f8c9747-d6b6-44a3-be37-9043fc5f25eb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
